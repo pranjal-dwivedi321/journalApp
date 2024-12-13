@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: dev
+
+#logging:
+#  level:
+#    com:
+#      springboot:
+#        journalApp: TRACE
+
+
+#logging:
+#  level:
+#    root: ERROR
+
+#logging:
+#  level:
+#    root: OFF
